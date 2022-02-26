@@ -1,5 +1,5 @@
-#Name:Ananda Mohon Ghosh
-#ID:110201
+#Name:Sujana Saha
+#ID:170227
 #Variables: array_keywords, array_data_type, array_operator,array_bracket,array_logical_operator,array_delemiter,array_var_separator,array_comments,arry_floatpoint
 #User Define Function: is_operator(self, temp_char),is_delimeter(self, temp_char), is_comments(self, temp_char,next_char),is_ogical_operator(self, temp_char),is_bracket(self, temp_char)
 #is_var_separator(self, temp_char),is_whitespace(self, temp_char),is_data_type(self, temp_string),is_keywords(self, temp_string),is_floatingpoint(self, temp_string)
