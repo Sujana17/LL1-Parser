@@ -1,5 +1,5 @@
-#Name:Ananda Mohon Ghosh
-#ID:110201
+#Name:Sujana Saha
+#ID:170227
 #Variables: result_array_symbolic_table, result_array_token_table, value_dictionary,data_type,temp_char,temp_string,line
 #User Define Function: token(cls, string)  -- To insert into Symbolic table & Token Table
 #User Define Function:  main_method()     --- Main Method. Execution will be start from Here
